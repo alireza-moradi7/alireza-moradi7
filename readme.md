@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Iran</h3>
 
 <ul>
-  <li>🧑🏻‍💻 I'm currently working on <a href="https://github.com/me-Alireza/Learno">Learno</a></li>
+  <li>🧑🏻‍💻 I'm currently working on <a href=""></a></li>
   <li>🌱 I'm currently learning <b>TypeScript</b></li>
   <li>🗨️ Ask me about web developing</li>
   <li>📬 How to reach me <a href="mailto: me.alirezamoradi@gmail.com">me.alirezamoradi@gmail.com</a></li>
@@ -13,11 +13,7 @@
 <div>
   <a href="https://www.linkedin.com/in/alireza-moradi-72a337266/">
     <img src="./Pictures/linkedin.png" alt="linkedin" width="30" />
-  </a><img />
-  <a href="https://t.me/skill_gym">
-    <img src="./Pictures/telegram.png" alt="telegram" width="30" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCN0Sl1zdbJWFo5R8KAv2moQ">
+  <a href="https://www.youtube.com/@skill__gym">
     <img src="./Pictures/youtube.png"
     alt="youtube" width="45" />
   </a>
